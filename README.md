@@ -118,9 +118,9 @@ plt.show()
 ```
 ### OUTPUT :
 <img width="1230" height="895" alt="{E6E21CEA-ED05-4981-B302-C8DFBF4A17C3}" src="https://github.com/user-attachments/assets/0ce60e93-34e5-45f8-b52f-704efc40d180" />
-<img width="607" height="533" alt="image" src="https://github.com/user-attachments/assets/b00ac7aa-e739-4a48-80a9-b3db1b5e9e10" />
+<img width="1635" height="897" alt="{1FB5FCFE-1CFE-451A-ABBB-5FCCCD7B14C2}" src="https://github.com/user-attachments/assets/4b9ebcca-2f46-4e18-b62a-675691990215" />
 <img width="1162" height="897" alt="{590EDCC5-EE87-48C8-B468-9652CF6F02B3}" src="https://github.com/user-attachments/assets/f5df717c-28c5-475b-a42d-b6fbaddcde40" />
-<img width="585" height="531" alt="image" src="https://github.com/user-attachments/assets/b33e6e1c-2546-49f0-8050-f53b4c120118" />
+<img width="1724" height="904" alt="{3E797180-A382-4BC7-9F66-89A9D3C26FF6}" src="https://github.com/user-attachments/assets/d6b3efd5-295d-4e8e-9be2-ba79dc8d9ae5" />
 <img width="1043" height="894" alt="{9FB22656-94FB-4179-99C9-65F3DF23B8A0}" src="https://github.com/user-attachments/assets/d354719d-73ec-4bcf-8333-79c6c35bf705" />
 
 
