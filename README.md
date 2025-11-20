@@ -62,7 +62,7 @@ import cv2
 import matplotlib.pyplot as plt
 %matplotlib inline
 
-withglass = cv2.imread('sam.png', 0)
+withglass = cv2.imread('nar.jpg', 0)
 group = cv2.imread('group.jpg', 0)
 
 plt.imshow(withglass, cmap='gray')
